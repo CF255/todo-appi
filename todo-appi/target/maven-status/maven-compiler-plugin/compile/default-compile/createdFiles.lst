@@ -1,0 +1,6 @@
+com\boostmytool\todo_appi\config\TodoItemDataLoader.class
+com\boostmytool\todo_appi\repositories\TodoItemRepositories.class
+com\boostmytool\todo_appi\TodoAppiApplication.class
+com\boostmytool\todo_appi\models\TodoItem.class
+com\boostmytool\todo_appi\controller\TodoFormController.class
+com\boostmytool\todo_appi\controller\TodoItemController.class
